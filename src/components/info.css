@@ -1,0 +1,16 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cvForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+
+input {
+  width: 200px;
+}

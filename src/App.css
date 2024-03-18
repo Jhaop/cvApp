@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.infoEntry {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.infoData {
+  font-size: .9rem;
+}
